@@ -1,0 +1,11 @@
+    
+NFT contract    
+
+    1. owner_id: AccountId,
+    # market_contract: AccountId,
+    # bundles_bought_per_album_type: LookupMap<AlbumHash,u32>,
+    # album_to_album_bundle_data: LookupMap<String, Vec<AccountId>>,
+    # metadata: LazyOption<NFTMetadata>,
+    # album_to_album_data: LookupMap<String, AlbumData>,
+    # tokens_per_owner: LookupMap<AccountId, UnorderedSet<TokenId>>,
+    # token_metadata_by_id: UnorderedMap<TokenId, TokenMetadata>,

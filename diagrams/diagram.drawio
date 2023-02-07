@@ -1,0 +1,180 @@
+<mxfile host="65bd71144e">
+    <diagram id="S3LfuULQOMPVun3XnvwW" name="Page-1">
+        <mxGraphModel dx="853" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" value="Album" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="10" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="220" as="sourcePoint"/>
+                        <mxPoint x="300" y="80" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="100"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="210" y="130" as="sourcePoint"/>
+                        <mxPoint x="300" y="180" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="240" y="150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Songs" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="60" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Album Art Cover" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="160" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="18" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Album" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="19" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Album Copy 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="354" width="70" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="20" target="32" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Album Copy 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="447" width="70" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="400" y="562.8333333333334" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="Album Copy 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="540" width="70" height="46" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="18" target="19" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="440" as="sourcePoint"/>
+                        <mxPoint x="450" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="18" target="21" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="440" as="sourcePoint"/>
+                        <mxPoint x="450" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="Song 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="347" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Song 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="440" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Album Art Cover" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="400" y="533" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="19" target="32" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="440" as="sourcePoint"/>
+                        <mxPoint x="450" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="19" target="33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="440" as="sourcePoint"/>
+                        <mxPoint x="450" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="38" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="20" target="31" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="490" as="sourcePoint"/>
+                        <mxPoint x="470" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="40" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="20" target="33" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="490" as="sourcePoint"/>
+                        <mxPoint x="470" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="21" target="32" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="490" as="sourcePoint"/>
+                        <mxPoint x="470" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="21" target="31" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="420" y="490" as="sourcePoint"/>
+                        <mxPoint x="470" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="Song 1 Copy 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="324" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Song Copy 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="377" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" target="45" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="520" y="377" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="31" target="47" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="460" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="54" value="Song 2 Copy 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="428" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Song 2 Copy 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="480" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="56" target="58" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Album Cover Copy 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="520" width="80" height="43" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="Album Cover Copy 2" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fillColor=#F2CC8F;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="555" y="580" width="90" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="32" target="54" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="460" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="32" target="55" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="460" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="62" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="33" target="56" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="460" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="" style="endArrow=classic;html=1;strokeColor=#E07A5F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;fontColor=#393C56;" parent="1" source="33" target="58" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="410" y="460" as="sourcePoint"/>
+                        <mxPoint x="460" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="66" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#393C56;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="320" width="40" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

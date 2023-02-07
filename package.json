@@ -1,0 +1,40 @@
+{
+  "name": "music-non-fungible-token",
+  "version": "0.2.5",
+  "description": "Implementation of NFT Music Marketplace using Rust",
+  "author": "Near, Inc. <hello@near.org>",
+  "license": "(MIT AND Apache-2.0)",
+  "scripts": {
+
+    "build": "cd contracts/nft && cargo check && cd ../.. && cd contracts/market && cargo check && cd ../..",
+    "build:contracts": "cd contracts/nft && ./build.sh && cd ../.. && cd contracts/market && ./build.sh && cd ../..",
+    "account": "rm -rf neardev && (near dev-deploy || exit 0)",
+    "deploy": "cd utils && node patch-config.js && node deploy.js",
+    "build-nft":"cd contracts/nft && ./build.sh",
+    "build-market":"cd contracts/market && ./build.sh",
+    "build-nft-testnet":"cd contracts/nft && ./build-testnet.sh",
+    "build-market-testnet":"cd contracts/market && ./build-testnet.sh",
+    "build-nft-mainnet":"cd contracts/nft && ./build-mainnet.sh",
+    "build-market-mainnet":"cd contracts/market && ./build-mainnet.sh"    
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "near-cli": "^2.0.1",
+    "near-sdk-as": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "bn.js": "^5.2.0",
+    "bs58": "^4.0.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "ipfs-core": "^0.8.0",
+    "near-api-js": "^0.42.0",
+    "node-fetch": "^2.6.1",
+    "patch-package": "^6.4.7",
+    "postinstall-postinstall": "^2.1.0"
+  }
+}
